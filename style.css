@@ -1,0 +1,48 @@
+header, footer {
+    background-color: rgb(36, 39, 132);
+}
+
+.game {
+    background-color: #e5183f;
+    height: 30px;
+    color: #dcf1f6;
+    text-decoration: none;
+}
+
+.list {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    list-style: none;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    gap: 500px;
+}
+
+body {
+    background-color: #f7cbda;
+}
+
+.link {
+    height: 100;
+    width: 120;
+}
+
+.nav_list_link {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    margin-top: 250px;
+}
